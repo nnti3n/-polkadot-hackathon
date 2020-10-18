@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/front-end-javascript-challenge/static/js/main.7764d550.chunk.js",
-    "main.js.map": "/front-end-javascript-challenge/static/js/main.7764d550.chunk.js.map",
-    "runtime-main.js": "/front-end-javascript-challenge/static/js/runtime-main.348c424e.js",
-    "runtime-main.js.map": "/front-end-javascript-challenge/static/js/runtime-main.348c424e.js.map",
-    "static/css/2.a791b4d1.chunk.css": "/front-end-javascript-challenge/static/css/2.a791b4d1.chunk.css",
-    "static/js/2.bcae9003.chunk.js": "/front-end-javascript-challenge/static/js/2.bcae9003.chunk.js",
-    "static/js/2.bcae9003.chunk.js.map": "/front-end-javascript-challenge/static/js/2.bcae9003.chunk.js.map",
-    "index.html": "/front-end-javascript-challenge/index.html",
-    "precache-manifest.6e080759207492ca0d53e7af6287177e.js": "/front-end-javascript-challenge/precache-manifest.6e080759207492ca0d53e7af6287177e.js",
-    "service-worker.js": "/front-end-javascript-challenge/service-worker.js",
-    "static/css/2.a791b4d1.chunk.css.map": "/front-end-javascript-challenge/static/css/2.a791b4d1.chunk.css.map",
-    "static/js/2.bcae9003.chunk.js.LICENSE.txt": "/front-end-javascript-challenge/static/js/2.bcae9003.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/front-end-javascript-challenge/static/media/outline-icons.ef60a4f6.woff"
+    "main.js": "/-polkadot-hackathon/static/js/main.f8bed79d.chunk.js",
+    "main.js.map": "/-polkadot-hackathon/static/js/main.f8bed79d.chunk.js.map",
+    "runtime-main.js": "/-polkadot-hackathon/static/js/runtime-main.2350a862.js",
+    "runtime-main.js.map": "/-polkadot-hackathon/static/js/runtime-main.2350a862.js.map",
+    "static/css/2.a3beba19.chunk.css": "/-polkadot-hackathon/static/css/2.a3beba19.chunk.css",
+    "static/js/2.3cb23619.chunk.js": "/-polkadot-hackathon/static/js/2.3cb23619.chunk.js",
+    "static/js/2.3cb23619.chunk.js.map": "/-polkadot-hackathon/static/js/2.3cb23619.chunk.js.map",
+    "index.html": "/-polkadot-hackathon/index.html",
+    "precache-manifest.c0559661dc5499126f3d41f331eb6aa4.js": "/-polkadot-hackathon/precache-manifest.c0559661dc5499126f3d41f331eb6aa4.js",
+    "service-worker.js": "/-polkadot-hackathon/service-worker.js",
+    "static/css/2.a3beba19.chunk.css.map": "/-polkadot-hackathon/static/css/2.a3beba19.chunk.css.map",
+    "static/js/2.3cb23619.chunk.js.LICENSE.txt": "/-polkadot-hackathon/static/js/2.3cb23619.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/-polkadot-hackathon/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.348c424e.js",
-    "static/css/2.a791b4d1.chunk.css",
-    "static/js/2.bcae9003.chunk.js",
-    "static/js/main.7764d550.chunk.js"
+    "static/js/runtime-main.2350a862.js",
+    "static/css/2.a3beba19.chunk.css",
+    "static/js/2.3cb23619.chunk.js",
+    "static/js/main.f8bed79d.chunk.js"
   ]
 }
