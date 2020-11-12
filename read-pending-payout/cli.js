@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 TOKEN_DISPLAY_SYMBOL = "KSM";
 TOKEN_DECIMAL = 12;
 DEFAULT_DEPTH = 5;
-DEFAULT_SIDECAR_URL = "http://af282ddf7542.ngrok.io";
+DEFAULT_SIDECAR_URL = "http://127.0.0.1:8080";
 DEFAULT_ERA = -1;
 DEFAULT_UNCLAIMED_ONLY = true;
 
@@ -30,6 +30,12 @@ async function main() {
     era = DEFAULT_ERA,
     unclaimedOnly = DEFAULT_UNCLAIMED_ONLY,
   ] = params;
+
+  if (unclaimedOnly === 'false') {
+    unclaimedOnly = true;
+  } else if (unclaimedOnly === 'true') {
+    unclaimedOnly = true;
+  }
 
   console.log("AccountId : ", accountId);
   console.log("Sidecar URL : ", sideCarUrl);
